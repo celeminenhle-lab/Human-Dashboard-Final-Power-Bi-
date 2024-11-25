@@ -1,5 +1,6 @@
 # Human-Dashboard-Final-Power-Bi-
 HR-Dashboard-MySQL-PowerBI
+![HR](https://github.com/user-attachments/assets/58a96a73-1d80-423f-9fa2-bb546fabbcec)
 
 
 Data Used
